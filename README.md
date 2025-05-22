@@ -63,4 +63,4 @@ The goal was to extract meaningful insights from an Instagram-style database usi
 
 1. Clone the repository:
    ```bash
-   https://github.com/Mrityunjay14/Instagram_User_Analytics.git
+    https://github.com/Mrityunjay14/Instagram_User_Analytics.git
